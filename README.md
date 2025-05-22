@@ -22,7 +22,9 @@ This is where I collect small code examples, exercises, and experiments as I wor
    npm install
 
 2. Compile TypeScript:
+   ```bash
   tsc
 
 3. Run the compiled file:
+   ```bash
   node dist/index.js
