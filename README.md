@@ -23,8 +23,8 @@ This is where I collect small code examples, exercises, and experiments as I wor
 
 2. Compile TypeScript:
    ```bash
-  tsc
+   tsc
 
 3. Run the compiled file:
    ```bash
-  node dist/index.js
+   node dist/index.js
